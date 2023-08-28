@@ -1,0 +1,11 @@
+configValues.py
+schwab_statements
+output
+backupOrUnneeded
+.idea
+.Python
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+
